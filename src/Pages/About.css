@@ -1,0 +1,35 @@
+/* About.css */
+/* .about-text{
+
+} */
+
+
+.about-container {
+    padding: 20px;
+    text-align: center;
+    
+  }
+  
+  .scrolling-content {
+    height: 2000px; /* Set the desired height for the scrolling content */
+    overflow: hidden;
+    position: relative;
+    margin-left: 500px;
+    margin-right: 500px;
+  }
+  
+  .scrolling-content p {
+    margin: 0;
+    padding: 10px;
+    animation: scroll 20s linear infinite; /* Adjust the speed as needed */
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateY(0);
+    }
+    100% {
+      transform: translateY(-100%);
+    }
+  }
+  

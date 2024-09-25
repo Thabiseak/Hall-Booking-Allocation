@@ -1,0 +1,44 @@
+/* HallCard.css */
+.hall-choosing-heading{
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 20px;
+}
+.hall-choosing-list {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+margin-top: 20px;
+}
+
+.hall-choosing-card {
+background-color: #16bcc2;
+border: 1px solid #ccc;
+border-radius: 5px;
+padding: 20px;
+margin-top: 100px;
+width: 250px;
+text-align: center;
+}
+
+.hall-choosing-card h2 {
+margin-bottom: 10px;
+font-size: 1.5rem;
+}
+
+.hall-choosing-card button {
+background-color: #007bff;
+color: #fff;
+border: none;
+padding: 10px 20px;
+border-radius: 5px;
+cursor: pointer;
+font-size: 1rem;
+}
+
+.hall-choosing-card button:hover {
+background-color: #e9a825;
+}

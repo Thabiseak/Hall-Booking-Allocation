@@ -1,0 +1,35 @@
+/* Home Page Styles */
+.home-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .home-heading {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .home-content {
+    font-size: 18px;
+    color: #666;
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  
+  .home-button {
+    background-color: #f7b731;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .home-button:hover {
+    background-color: #e9a825;
+  }
+  

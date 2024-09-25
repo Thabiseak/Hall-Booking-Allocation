@@ -1,0 +1,23 @@
+/* Portfolio Page Styles */
+.portfolio-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .portfolio-heading {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .portfolio-item {
+    display: inline-block;
+    margin: 20px;
+  }
+  
+  .portfolio-item img {
+    max-width: 100%;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  

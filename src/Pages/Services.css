@@ -1,0 +1,24 @@
+/* Services Page Styles */
+.services-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .services-heading {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .service-item {
+    background-color: #f7b731;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .service-item:hover {
+    background-color: #e9a825;
+  }
+  
